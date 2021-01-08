@@ -1,0 +1,2 @@
+% Assignment: MATLAB Calculation
+debt = 1000 * (1 + 0.1)^2
