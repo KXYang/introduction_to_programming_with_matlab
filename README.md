@@ -26,4 +26,11 @@ No Graded Assignment
 * [Built-in functions](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_5/minimax.m)
 * [Lesson 4 Wrap-up](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_5/maxtrix_construction.m)
 
+## Week 6: Selection
+### Programming Assignments
+* [If-statement practice](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_6/if_statements.m)
+* [More practice]()
+* [nargin](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_6/nargin.m)
+* [Lesson 5 Wrap-up](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_6/valid_date.m)
+
 ## [Certificate](https://www.coursera.org/account/accomplishments/verify/6CRTJ9GAESKJ)
