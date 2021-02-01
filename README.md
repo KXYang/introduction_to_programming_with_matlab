@@ -29,8 +29,15 @@ No Graded Assignment
 ## Week 6: Selection
 ### Programming Assignments
 * [If-statement practice](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_6/if_statements.m)
-* [More practice]()
+* [More practice](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_6/eligible.m)
 * [nargin](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_6/nargin.m)
 * [Lesson 5 Wrap-up](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_6/valid_date.m)
+
+## Week 7: Loops
+### Programming Assignments
+* [for-loop practice](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_7/halfsum.m)
+* [while-loop practice](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_7/next_prime.m)
+* [Logical Indexing](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_7/freezing.m)
+* [Lesson 6 Wrap-up](https://github.com/KXYang/introduction_to_programming_with_matlab/blob/main/week_7/max_sum.m)
 
 ## [Certificate](https://www.coursera.org/account/accomplishments/verify/6CRTJ9GAESKJ)
